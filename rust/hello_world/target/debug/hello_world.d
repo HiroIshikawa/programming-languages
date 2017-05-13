@@ -1,0 +1,1 @@
+/Users/hiro99ishikawa/Dropbox/personal_projects/programming-languages/rust/hello_world/target/debug/hello_world: /Users/hiro99ishikawa/Dropbox/personal_projects/programming-languages/rust/hello_world/src/main.rs
